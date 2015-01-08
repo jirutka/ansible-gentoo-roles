@@ -19,6 +19,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 *  [php-fpm](https://github.com/jirutka/ansible-role-php-fpm)
 *  [prosody](https://github.com/jirutka/ansible-role-prosody)
 *  [roundcube](https://github.com/jirutka/ansible-role-roundcube)
+*  [solr](https://github.com/jirutka/ansible-role-solr)
 *  [ssmtp](https://github.com/jirutka/ansible-role-ssmtp)
 *  [sys-auth-ldap](https://github.com/jirutka/ansible-role-sys-auth-ldap) – Configures system authentication via LDAP.
 *  [syslog-ng](https://github.com/jirutka/ansible-role-syslog-ng)
