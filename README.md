@@ -17,6 +17,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 *  [pentaho-bi](https://github.com/jirutka/ansible-role-pentaho-bi)
 *  [php-fpm-pool](https://github.com/jirutka/ansible-role-php-fpm-pool)
 *  [php-fpm](https://github.com/jirutka/ansible-role-php-fpm)
+*  [postgresql](https://github.com/jirutka/ansible-role-postgresql)
 *  [prosody](https://github.com/jirutka/ansible-role-prosody)
 *  [roundcube](https://github.com/jirutka/ansible-role-roundcube)
 *  [solr](https://github.com/jirutka/ansible-role-solr)
