@@ -23,6 +23,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 *  [roundcube](https://github.com/jirutka/ansible-role-roundcube)
 *  [solr](https://github.com/jirutka/ansible-role-solr)
 *  [ssmtp](https://github.com/jirutka/ansible-role-ssmtp)
+*  [stunnel](https://github.com/jirutka/ansible-role-stunnel)
 *  [sys-auth-ldap](https://github.com/jirutka/ansible-role-sys-auth-ldap) – Configures system authentication via LDAP.
 *  [syslog-ng](https://github.com/jirutka/ansible-role-syslog-ng)
 *  [tomcat](https://github.com/jirutka/ansible-role-tomcat)
