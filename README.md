@@ -24,6 +24,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 *  [postgresql](https://github.com/jirutka/ansible-role-postgresql)
 *  [prosody](https://github.com/jirutka/ansible-role-prosody)
 *  [redis](https://github.com/jirutka/ansible-role-redis)
+*  [redmine](https://github.com/jirutka/ansible-role-redmine)
 *  [roundcube](https://github.com/jirutka/ansible-role-roundcube)
 *  [solr](https://github.com/jirutka/ansible-role-solr)
 *  [ssmtp](https://github.com/jirutka/ansible-role-ssmtp)
