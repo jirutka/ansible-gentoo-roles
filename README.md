@@ -19,6 +19,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 *  [openldap](https://github.com/jirutka/ansible-role-openldap)
 *  [openssh](https://github.com/jirutka/ansible-role-openssh)
 *  [openvpn-server](https://github.com/jirutka/ansible-role-openvpn-server)
+*  [owncloud](https://github.com/jirutka/ansible-role-owncloud)
 *  [pentaho-bi](https://github.com/jirutka/ansible-role-pentaho-bi)
 *  [php-fpm-pool](https://github.com/jirutka/ansible-role-php-fpm-pool)
 *  [php-fpm](https://github.com/jirutka/ansible-role-php-fpm)
