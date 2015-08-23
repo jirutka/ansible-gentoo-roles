@@ -17,6 +17,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 *  [nginx](https://github.com/jirutka/ansible-role-nginx)
 *  [ntp](https://github.com/jirutka/ansible-role-ntp)
 *  [openldap](https://github.com/jirutka/ansible-role-openldap)
+*  [openntpd](https://github.com/jirutka/ansible-role-openntpd)
 *  [openssh](https://github.com/jirutka/ansible-role-openssh)
 *  [openvpn-server](https://github.com/jirutka/ansible-role-openvpn-server)
 *  [owncloud](https://github.com/jirutka/ansible-role-owncloud)
