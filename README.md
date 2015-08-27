@@ -6,6 +6,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 
 *  [artifactory](https://github.com/jirutka/ansible-role-artifactory)
 *  [askbot](https://github.com/jirutka/ansible-role-askbot)
+*  [dnsmasq](https://github.com/jirutka/ansible-role-dnsmasq)
 *  [elasticsearch](https://github.com/jirutka/ansible-role-elasticsearch)
 *  [gitlab](https://github.com/jirutka/ansible-role-gitlab)
 *  [haste-server](https://github.com/jirutka/ansible-role-haste-server)
