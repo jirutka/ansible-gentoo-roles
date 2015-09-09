@@ -10,6 +10,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 *  [elasticsearch](https://github.com/jirutka/ansible-role-elasticsearch)
 *  [gitlab](https://github.com/jirutka/ansible-role-gitlab)
 *  [haste-server](https://github.com/jirutka/ansible-role-haste-server)
+*  [iscsi-initiator](https://github.com/jirutka/ansible-role-iscsi-initiator)
 *  [jetty-runner](https://github.com/jirutka/ansible-role-jetty-runner)
 *  [layman](https://github.com/jirutka/ansible-role-layman)
 *  [mail-server](https://github.com/jirutka/ansible-role-mail-server) – A complete mail server with IMAP, DKIM, antispam and antivirus.
