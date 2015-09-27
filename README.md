@@ -17,6 +17,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 *  [layman](https://github.com/jirutka/ansible-role-layman)
 *  [mail-server](https://github.com/jirutka/ansible-role-mail-server) – A complete mail server with IMAP, DKIM, antispam and antivirus.
 *  [memcached](https://github.com/jirutka/ansible-role-memcached)
+*  [minidlna](https://github.com/jirutka/ansible-role-minidlna)
 *  [mongodb](https://github.com/jirutka/ansible-role-mongodb)
 *  [nginx](https://github.com/jirutka/ansible-role-nginx)
 *  [ntp](https://github.com/jirutka/ansible-role-ntp)
