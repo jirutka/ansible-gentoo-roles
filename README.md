@@ -15,6 +15,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 *  [iscsi-initiator](https://github.com/gentoo-ansible/role-iscsi-initiator)
 *  [jetty-runner](https://github.com/gentoo-ansible/role-jetty-runner)
 *  [layman](https://github.com/gentoo-ansible/role-layman)
+*  [lprng](https://github.com/gentoo-ansible/role-lprng)
 *  [mail-server](https://github.com/gentoo-ansible/role-mail-server) – A complete mail server with IMAP, DKIM, antispam and antivirus.
 *  [memcached](https://github.com/gentoo-ansible/role-memcached)
 *  [minidlna](https://github.com/gentoo-ansible/role-minidlna)
