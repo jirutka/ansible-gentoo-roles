@@ -35,6 +35,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 *  [redis](https://github.com/gentoo-ansible/role-redis)
 *  [redmine](https://github.com/gentoo-ansible/role-redmine)
 *  [roundcube](https://github.com/gentoo-ansible/role-roundcube)
+*  [samba-dc](https://github.com/gentoo-ansible/role-samba-dc)
 *  [sinopia](https://github.com/gentoo-ansible/role-sinopia)
 *  [solr](https://github.com/gentoo-ansible/role-solr)
 *  [ssmtp](https://github.com/gentoo-ansible/role-ssmtp)
