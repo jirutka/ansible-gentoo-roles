@@ -9,6 +9,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 *  [bacula-client](https://github.com/gentoo-ansible/role-bacula-client)
 *  [discourse](https://github.com/gentoo-ansible/role-discourse)
 *  [dnsmasq](https://github.com/gentoo-ansible/role-dnsmasq)
+*  [dokuwiki](https://github.com/gentoo-ansible/role-dokuwiki)
 *  [elasticsearch](https://github.com/gentoo-ansible/role-elasticsearch)
 *  [gitlab](https://github.com/gentoo-ansible/role-gitlab)
 *  [haste-server](https://github.com/gentoo-ansible/role-haste-server)
