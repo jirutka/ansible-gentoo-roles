@@ -22,6 +22,7 @@ A curated list of [Ansible](http://www.ansible.com) roles for [Gentoo Linux](htt
 *  [minidlna](https://github.com/gentoo-ansible/role-minidlna)
 *  [mongodb](https://github.com/gentoo-ansible/role-mongodb)
 *  [nginx](https://github.com/gentoo-ansible/role-nginx)
+*  [nrpe](https://github.com/gentoo-ansible/role-nrpe) (Nagios NRPE daemon)
 *  [ntp](https://github.com/gentoo-ansible/role-ntp)
 *  [openldap](https://github.com/gentoo-ansible/role-openldap)
 *  [openntpd](https://github.com/gentoo-ansible/role-openntpd)
